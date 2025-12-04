@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Dunder Mifflin, Scranton</title>
+    <link>//localhost:1313/posts/</link>
+    <description>Recent content in Posts on Dunder Mifflin, Scranton</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 03 Dec 2025 15:38:00 +0800</lastBuildDate>
+    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Brief History of Dunder Mifflin</title>
+      <link>//localhost:1313/posts/first/</link>
+      <pubDate>Wed, 03 Dec 2025 15:38:00 +0800</pubDate>
+      <guid>//localhost:1313/posts/first/</guid>
+      <description>&lt;h1 id=&#34;from-metal-brackets-to-michael-scott-a-brief-history-of-dunder-mifflin&#34;&gt;From Metal Brackets to Michael Scott: A Brief History of Dunder Mifflin&lt;/h1&gt;
+&lt;p&gt;Before the documentary crew arrived in Scranton, before the Dundie Awards, and long before &amp;ldquo;That’s what she said,&amp;rdquo; Dunder Mifflin was just an idea between two guys named Robert.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Early Years: It Wasn&amp;rsquo;t Always Paper&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The company was founded in 1949 by Robert Dunder and Robert Mifflin. But here is the surprising twist that most casual fans don&amp;rsquo;t know: Dunder Mifflin originally started as a supplier of metal brackets for construction.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

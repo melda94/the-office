@@ -1,0 +1,17 @@
+baseURL = ''
+languageCode = 'en-us'
+title = 'Dunder Mifflin, Scranton'
+theme = 'PaperMod'
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[[menu.main]]
+  name = "Search"
+  url = "/search/"
+  weight = 10
+
+  [[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 20
